@@ -1,0 +1,39 @@
+body{
+    background: plum;
+}
+header{
+    color: black;
+    text-align: center;
+    font: normal 20pt italic;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    font: normal 20pt italic;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.274);
+    padding: 5%;
+}
+
+#contar{
+    background: plum;
+    width: 100px;
+    margin: auto;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 1%;
+}
+
+#res{
+    background: white;
+    border-radius: 10px;
+    font: normal 20pt italic;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.274);
+    padding: 5%;
+    text-align: left;
+}
